@@ -17,7 +17,7 @@
 
 - ⚡ G Felx **I won McLaren Lego set in a lucky draw**
 
-<h1 align="center">
+<h1 align="left">
   Let's Connect and have a Chat!💬
 </h1>
 <p align="left">
