@@ -1,6 +1,6 @@
 <h1 align="center">Hello <a href="https://media.giphy.com/media/jyt5LDxHz42vWkGRXy/giphy.gif?cid=790b7611whl0c42q1b765za0jp83pl40unqn81y2210utc94&ep=v1_gifs_search&rid=giphy.gif&ct=g"></a>, I'm Akshita</h1>
-<h3 align="center">A passionate AI and data enthusiast from India</h3>
-
+<h3 align="center">A passionate AI and Computer Engineer from India. I love learning and travelling 🌍.</h3>
+<img align = "right" alt="Hackathon" src="typing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=squidumb&label=Profile%20views&color=0e75b6&style=flat" alt="squidumb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=squidumb" alt="squidumb" /></a> </p>
@@ -15,11 +15,11 @@
 
 - 📫 How to reach me **akshita.002rai@gmail.com**
 
-- ⚡ Fun fact **I am the life of a party**
+- ⚡ Fun fact **I have McLaren Lego set**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshita-rai-74aa03205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshita-rai-74aa03205/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akshitaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshitaaa/" height="30" width="40" /></a>
 <a href="https://instagram.com/akshhh.ita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshhh.ita" height="30" width="40" /></a>
 </p>
 
@@ -29,3 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=squidumb&show_icons=true&locale=en&layout=compact" alt="squidumb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=squidumb&show_icons=true&locale=en" alt="squidumb" /></p>
+
+***My Github Contributions
+![Snake animation](https://github.com/squidumb/squidumb/blob/output/github-contribution-grid-snake.svg)
