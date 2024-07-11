@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akshitaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshitaaa/" height="30" width="40" /></a>
 <a href="https://instagram.com/akshhh.ita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshhh.ita" height="30" width="40" /></a>
+<code><a href="https://akshitaspace.netlify.app/" title="Portfolio Website"><img width="22" src="https://www.svgrepo.com/show/33980/paperclip.svg"> Portfolio</a></code>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
