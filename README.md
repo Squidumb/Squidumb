@@ -17,9 +17,10 @@
 
 - ⚡ G Felx **I won McLaren Lego set in a lucky draw**
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 <p align="left">
-<p align="center">
 <a href="https://akshitaspace.netlify.app/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
